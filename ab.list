@@ -1,3 +1,0 @@
-# Adobe 规则
-DOMAIN-SUFFIX,adobe.io,REJECT
-DOMAIN,Ics-cops.adobe.io,DIRECT
